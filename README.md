@@ -37,10 +37,11 @@ I will get to correcting this at some point soon. <br>
 
 ## Change Log
 
-### Version 0.0.1
+### Version 1.0.0
 
 #### Tweego Binaries updated
 -- tweego binary has been recomplied using the latest version of GO, which includes 2 years of updates. <br>
+-- Testing <b>hasn't<b> been completed but the hope is that the latest version of Golang means minor increases to performance and stability. <br>
 -- tweego.exe is now about 12% smaller then the official version 2.1.1 binary. <br>
 
 #### Story Formats updated
@@ -59,7 +60,7 @@ I will get to correcting this at some point soon. <br>
 --Dragging a .twee file onto compile.bat will generate a compiled .html file based on tweego's automated detection of the Story Format. <br>
 --Dragging a .html file onto the decompile.bat will generate a decompiled .twee file based on tweego's automated detection of the Story Format. <br>
 
-### Version 0.0.2
+### Version 2.0.0
 
 #### Story Formats
 -- Includes a seperate .zip file containing all of the updated format.js files listed as updated in v0.0.1 <br>
@@ -71,23 +72,6 @@ I will get to correcting this at some point soon. <br>
 
 ## Road Map
 
-This initial release, Version 0.1.0 will be the only release that targets multiple operating systems. 
-Future releases that include the planned automated features will be Windows exclusive software.
-If some level of popularity occurs, scripts for Linux will also be made avalible. 
-At no stage will MacOS recieve support.
-
-### Version 0.1.0 - Reboot
-First the Tweego base code will be recompiled using the latest version of GO which includes 2 years of improvements.
-
-Second the story formats included with Tweego will be updated to their current versions, again with 2 years of changes and improvements since the last offical Tweego release.
-
-### Version 0.2.0 - Automation
-Using Windows batch files (.bat) the following automations will be introduced.
-1) Drag and Drop Compiling of .tw and .twee files to .html
-2) Drag and Drop Decompiling of .html files into .twee
-3) Automatic detection of changes to .twee source and continuous recompile .html
-
-### Version 0.3.0 - Apply Polish
-This version will move the project from .bat files to .exe files for Windows.
-These .exe files will include icons, upgrading from the iconless tweego.exe and batch files included in priror releases. 
-User interaction, prompts and menus, will be reworked to be more professional and intuitive.
+### Add files for Twee 3 Language Tools that grant it the same automation abilities as the current Batch files. <br>
+### Create a CMD Line Menu GUI for making the use of Tweego without drag and drop an easier experience for Twee and Tweine beginners. <br>
+### Give the batch files the ability to perform their functions when being opened directly (without drag and drop) based on a set directory structure and config.txt file. <br>
