@@ -27,13 +27,9 @@ This uses tweego's automatic story format detection and may not work perfectly i
 [Tweego](https://github.com/tmedwards/tweego/) is command-line software that assists with the generation of Twine 2 Interactive Fiction & Games from Twee code. [Twine/Twee](http://twinery.org/)
 
 ## Current Release
-The current release is [v0.0.2](https://github.com/TheBlueJester/TweeGoMatic/releases/tag/v0.0.2) <br>
+The current release is [v2.0.0](https://github.com/TheBlueJester/TweeGoMatic/releases/tag/v2.0.0) <br>
 See Change Log below for it's contents and changes.
 
-## Notes
-Progress on this project was made more rapidly than I had anticipated. I had intended for versions 0.0.X to be pre-release and very limited. <br>
-However these versions actually contain the majority of the "Road Map" updates I'd planned out and thus the versioning doesn't match well with the road-map. <br>
-I will get to correcting this at some point soon. <br>
 
 ## Change Log
 
