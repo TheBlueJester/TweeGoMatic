@@ -68,6 +68,6 @@ See Change Log below for it's contents and changes.
 
 ## Road Map
 
-### Add files for Twee 3 Language Tools that grant it the same automation abilities as the current Batch files. <br>
-### Create a CMD Line Menu GUI for making the use of Tweego without drag and drop an easier experience for Twee and Tweine beginners. <br>
-### Give the batch files the ability to perform their functions when being opened directly (without drag and drop) based on a set directory structure and config.txt file. <br>
+#### -- Add files for Twee 3 Language Tools that grant it the same automation abilities as the current Batch files. <br>
+#### -- Create a CMD Line Menu GUI for making the use of Tweego without drag and drop an easier experience for Twee and Tweine beginners. <br>
+#### -- Give the batch files the ability to perform their functions when being opened directly (without drag and drop) based on a set directory structure and config.txt file. <br>
