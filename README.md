@@ -11,7 +11,7 @@ TweeGoMatic meakes it easy to migrate to using Twee3 Notation via "drag and drop
 And then allows users to "drag and drop" compile their .twee files into usable .html files once they are ready to test or publish their work. <br>
 There is also the option to run TweeGoMatic the entire time someone works on their project and have it automatically detect changes to the .twee file and re-compile it to .html.
 
-At the end of the day thanks needs to go to <b>[tmedwards]((https://github.com/tmedwards/)<b> for creating tweego in the first place. <br>
+At the end of the day thanks needs to go to <b>[tmedwards]((https://github.com/tmedwards/)</b> for creating tweego in the first place. <br>
 I have simply updated what they built and made scripts of convenience and nothing more.
 
 
@@ -39,7 +39,7 @@ See Change Log below for it's contents and changes.
 
 #### Tweego Binaries updated
 -- tweego binary has been recomplied using the latest version of GO, which includes 2 years of updates. <br>
--- Testing <b>hasn't<b> been completed but the hope is that the latest version of Golang means minor increases to performance and stability. <br>
+-- <b>Testing hasn't been completed</b> but the hope is that the latest version of Golang means minor increases to performance and stability. <br>
 -- tweego.exe is now about 12% smaller then the official version 2.1.1 binary. <br>
 
 #### Story Formats updated
