@@ -8,7 +8,7 @@ echo The loaded Twee file will be continuously monitored and recompiled to HTML 
 echo.
 echo Use Control + C to end automatic recompiling and close this window.
 echo.
-"%~dp0bin\tweego.exe" -o %~n1.html %1 -w
+"%~dp0bin\tweego.exe" -o "%~n1.html" %1 -w
 echo.
 echo Twee file has now been complied to: "%~n1.html"
 echo Press Enter to exit.
