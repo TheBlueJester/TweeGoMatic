@@ -39,7 +39,7 @@ See Change Log below for it's contents and changes.
 
 #### Tweego Binaries updated
 -- tweego binary has been recomplied using the latest version of GO, which includes 2 years of updates. <br>
--- <b>Testing hasn't been completed</b> but the hope is that the latest version of Golang means minor increases to performance and stability. <br>
+-- <b><em>Testing hasn't been completed</em></b> but the hope is that the latest version of Golang means minor increases to performance and stability. <br>
 -- tweego.exe is now about 12% smaller then the official version 2.1.1 binary. <br>
 
 #### Story Formats updated
@@ -71,7 +71,7 @@ See Change Log below for it's contents and changes.
 
 #### Batch Files Patched
 -- Patched issue where Batch files failed to function when spaces were present in file names. Thanks so a user on discord for pointing this out.
--- <b> Recommend that spaces are excluded from file names regardless; due to incompatibility with web architecture / URLs and compiled projects being .html </b>
+-- <b><em>Recommend that spaces are excluded from file names regardless; due to incompatibility with web architecture / URLs and compiled projects being .html</em> </b>
 
 #### Template Files
 -- Added template .twee and .html files that users can use as a starting point for their projects.
