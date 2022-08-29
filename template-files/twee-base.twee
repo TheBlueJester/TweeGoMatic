@@ -1,0 +1,17 @@
+:: StoryTitle
+twee-base
+
+
+:: StoryData
+{
+	"ifid": "B99FAB15-2E12-4B9A-A55B-C9A9CFE018D4",
+	"format": "SugarCube",
+	"format-version": "2.36.1",
+	"start": "Start",
+	"zoom": 1
+}
+
+
+:: Start {"position":"850,375","size":"100,100"}
+
+
